@@ -1,0 +1,29 @@
+Veri tabanı tasarlamanın ilk adımı ihtiyaç analizidir.
+
+İhtiyaç analizi sırasında aşağıdaki sorulara cevap aranır:
+
+1) Hayata geçirilecek sistem neye hizmet edecek?
+Hayata geçirilecek olan veri tabanı, spor yapan insanların programlarının  katalog veri tabanını oluşturacaktır.
+
+2) Veri tabanı hangi ihtiyaçları karşılayacak?
+-Sporcuların Program İhtiyaçları
+-Sporcuların Yeme İçme Diyet Bilgileri
+-
+
+3) Veri tabanında hangi veriler depolanacak?
+- Hareket Bilgileri
+- Besinlerin Bİlgileri
+
+4) Veri tabanında ne tür veriler depolanacak?
+
+EK BİLGİLER
+
+Bu soruların cevaplandırılmasının ardından aşağıdaki konular tartışılabilir:
+
+1) Veri tabanında hangi tablolar olacak? 
+- Sporcuların gün be gün yapacağı antreman listesi
+- Yiyeceği besin listesi
+
+2) Tablolar arası ilişkiler nasıl kurulacak?
+
+Tüm bu çalışmaların kağıt ortamında gerçekleştirilmesi, daha sonrasında veri tabanının oluşturulmaya başlanması avantaj sağlayacaktır.
