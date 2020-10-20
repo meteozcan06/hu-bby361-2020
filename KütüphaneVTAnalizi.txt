@@ -1,7 +1,7 @@
 Kütüphane Veri Tabanı Analizi
 
 1) Hayata geçirilecek sistem neye hizmet edecek?
-Hayata geçirilecek veri tabanı, yiyeceklerin  üzerine kitapların yer aldığı bir dernek kütüphanesinin katalog veri tabanıdır.
+Hayata geçirilecek veri tabanı, yiyeceklerin  üzerine kitapların yer aldığı bir kütüphanenin katalog veri tabanıdır.
 
 2) Veri tabanı hangi ihtiyaçları karşılayacak?
 İnsanların yiyecekler hakkında her türlü bilgiyi içeren kitaplara ulaşmasını sağlıyacak.
