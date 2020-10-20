@@ -1,0 +1,44 @@
+
+Kütüphane Veri Tabanı Analizi
+
+1) Hayata geçirilecek sistem neye hizmet edecek?
+Hayata geçirilecek veri tabanı, akvaryum balıkları üzerine kitapların yer aldığı bir kütüphanenin katalog veri tabanıdır.
+
+2) Veri tabanı hangi ihtiyaçları karşılayacak?
+Akvaryum hobisine yeni başlıyacak kullanıcılar için gerekli bilgileri sağlayan kitapları kullanıcıya ulaştırmayı karşılayacak.
+- Kitapların künye bilgileri sorgulanabilecektir.
+- Yayınevi bilgileri sorgulanabilecektir.
+- Yazarlar bilgileri ve detaylı bağlantıları sorgulanabilecektir.
+- Kütüphanede o kitaptan kaç kopya olduğu sorgulanabilecektir.
+
+3) Veri tabanında hangi veriler depolanacak?
+- Akvaryum Balıkları
+- Akvaryumlar ve Balık Eşleştirmesi
+- Akvaryum Balık Yemi
+- Akvaryum Dekoru
+- Akvaryum Araç ve Gereçleri
+Kısacası bu ve bunun gibi içerikleri içeren kitapların;
+- Kitap bilgileri
+- Yazar bilgileri
+- Yayınevi bilgileri
+- 
+4) Veri tabanında ne tür veriler depolanacak?
+- Kitap verileri
+- - ISBN
+- - Eser Adı
+- - Yazar Adı
+- - Basım Yılı
+- - Yayınevi
+- - Dil
+- - Kopya Sayısı
+
+- Yazar verileri
+- - Yazar No (Otomatik artan)
+- - Yazar Adı
+- - Yazar Soyadı
+- - Yazar URL
+
+- Yayınevi verileri
+- - Yayınevi No
+- - Yayınevi Adı
+- - Yayınevi URL
