@@ -1,31 +1,37 @@
-Veri tabanı tasarlamanın ilk adımı ihtiyaç analizidir.
-
-İhtiyaç analizi sırasında aşağıdaki sorulara cevap aranır:
+Kütüphane Veri Tabanı Analizi
 
 1) Hayata geçirilecek sistem neye hizmet edecek?
-Hayata geçirilecek olan veri tabanı, spor yapan insanların programlarının veri tabanını oluşturacaktır.
+Hayata geçirilecek veri tabanı, yiyeceklerin  üzerine kitapların yer aldığı bir dernek kütüphanesinin katalog veri tabanıdır.
 
 2) Veri tabanı hangi ihtiyaçları karşılayacak?
--Sporcuların Program İhtiyaçları
--Sporcuların Yeme İçme Diyet Bilgileri
--
+İnsanların yiyecekler hakkında her türlü bilgiyi içeren kitaplara ulaşmasını sağlıyacak.
 
 3) Veri tabanında hangi veriler depolanacak?
-- Hareket Bilgileri
-- Besinlerin Bİlgileri
-
+- Kitap Bilgileri
+- Yazar Bilgileri
+- Yayınlandığı Yer
+- Yemek Tarifleri
+- Yiyeceklerin Tarihçesi
+- Yiyeceklerin Besin Değerleri
+- Yiyeceklerin Birbirleriyle Kombinlenmesi
+...
 4) Veri tabanında ne tür veriler depolanacak?
-
-EK BİLGİLER
-
-
-
-Bu soruların cevaplandırılmasının ardından aşağıdaki konular tartışılabilir:
-
-1) Veri tabanında hangi tablolar olacak? 
-- Sporcuların gün be gün yapacağı antreman listesi
-- Yiyeceği besin listesi
-
-2) Tablolar arası ilişkiler nasıl kurulacak?
-
-Tüm bu çalışmaların kağıt ortamında gerçekleştirilmesi, daha sonrasında veri tabanının oluşturulmaya başlanması avantaj sağlayacaktır.
+- Kitap Bilgileri
+- - Konu
+- - ISBN
+- - Eser Adı
+- - Yazar Adı
+- - Basım Yılı
+- - Yayınevi
+- - Dil
+- - Kopya Sayısı
+- - Sayfa Sayısı
+...
+- Yazar verileri
+- - Yazar Adı
+- - Yazar Soyadı
+- - Yazarların Diğer Kitapları
+...
+- Yayınladığı Yer
+- - Yayın Evi Adı
+...
